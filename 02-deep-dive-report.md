@@ -9,7 +9,7 @@ Quy trình tìm kiếm trạm sạc hiện tại của tài xế xe điện VinF
 │ Xe báo pin   │     │ Mở bản đồ/   │     │ Kiểm tra thủ │     │ Lựa chọn &   │
 │ thấp (<20%)  │ ──→ │ Tìm kiếm trạm│ ──→ │ công loại cổng│ ──→│ Bắt đầu      │
 │              │     │ sạc gần nhất │     │ và trụ trống │     │ điều hướng   │
-│ Ai: Tài xế   │     │ Ai: Tài xế   │     │ Ai: Tài xế   │     │ Ai: Tài xế   │
+│ Ai: Hệ thống xe│   │ Ai: Tài xế   │     │ Ai: Tài xế   │     │ Ai: Tài xế   │
 │ ⏱ 1 phút    │     │ ⏱ 2 phút     │     │ ⏱ 5 phút 🔴 │    │ ⏱ 1 phút    │
 │ In: Cảnh báo │     │ In: GPS      │     │ In: App info │     │ Out: Lộ trình│
 └──────────────┘     └──────────────┘     └──────────────┘     └──────────────┘

@@ -50,7 +50,7 @@ Dưới đây là 3 Quick Problem Cards chi tiết cho các bài toán tiềm n�
 │ chọn trạm sạc từ 10 phút ──> dưới 30 giây; Đảm bảo 99% đề   │
 │ xuất đúng loại cổng sạc và trụ đang có sẵn.                 │
 │                                                             │
-│ Quick Architecture: [ ] No AI  [ ] Rule  [x] LLM  [ ] Agent │
+│ Quick Architecture: [ ] No AI  [x] Rule  [x] LLM  [ ] Agent │
 └─────────────────────────────────────────────────────────────┘
 
 
